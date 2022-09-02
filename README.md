@@ -59,5 +59,9 @@ export default {
 npm run serve
 ```
 
+### pre-request
+1. 如果python版本是3,需要下载一个2版本的
+2. 然后用cnpm install --python=c:\python27\python.exe , 注意用cnpm,npm的放会有各种问题，同时要指定python的版本
+
 ## 友情链接（flowable流程设计器，感谢@GoldSubmarine提供）
 https://github.com/GoldSubmarine/workflow-bpmn-modeler
